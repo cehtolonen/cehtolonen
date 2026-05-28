@@ -2,7 +2,10 @@ Chief of Staff at [Fulcrum Genomics](https://fulcrumgenomics.com/) — a small, 
 
 Before Fulcrum, 20+ years at the Broad Institute across the Genomics and Data Sciences Platforms. Contributed to gnomAD, the 1000 Genomes Project, The Cancer Genome Atlas, GTEx, ENCODE, the NIH Alzheimer's Disease Sequencing Project, All of Us, and tools including Picard and GATK.
 
+Based in Paris.
+
 📫 How to reach me: [BlueSky](https://bsky.app/profile/charlottetolonen.bsky.social) · [LinkedIn](https://www.linkedin.com/in/charlotte-henson-tolonen/)
+
 
 <!--
 **cehtolonen/cehtolonen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
