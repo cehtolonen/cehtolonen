@@ -1,6 +1,6 @@
 Chief of Staff at [Fulcrum Genomics](https://fulcrumgenomics.com/) — a small, expert bioinformatics consultancy. I build the operational and cultural scaffolding that keeps high-impact genomics work moving.
 
-Before Fulcrum, 20+ years at the Broad Institute across the Genomics and Data Sciences Platforms. Contributed to gnomAD, the 1000 Genomes Project, The Cancer Genome Atlas, GTEx, ENCODE, the NIH Alzheimer's Disease Sequencing Project, All of Us, and tools including Picard and GATK.
+Before Fulcrum, 20+ years at the Broad Institute across the Genomics and Data Sciences Platforms — a career that scaled alongside the technology, from early NGS through large-scale population genomics. Contributed to gnomAD, the 1000 Genomes Project, The Cancer Genome Atlas, GTEx, ENCODE, the NIH Alzheimer's Disease Sequencing Project, All of Us, and tools including Picard and GATK.
 
 Based in Paris.
 
