@@ -4,7 +4,7 @@ Before Fulcrum, 20+ years at the Broad Institute across the Genomics and Data Sc
 
 Based in Paris.
 
-[BlueSky](https://bsky.app/profile/charlottetolonen.bsky.social) · [LinkedIn](https://www.linkedin.com/in/charlotte-henson-tolonen/)
+[BlueSky](https://bsky.app/profile/charlottetolonen.bsky.social) · [LinkedIn](https://www.linkedin.com/in/charlotte-henson-tolonen/) · [ORCID](https://orcid.org/0009-0000-8192-7390) · [Google Scholar](https://scholar.google.com/citations?user=M-9b6poAAAAJ)
 
 
 <!--
